@@ -28,7 +28,7 @@ npm -v
 
 ## 2️⃣ Install Java Development Kit (JDK)
 
-- Download **JDK 17 (LTS)** from [Adoptium](https://adoptium.net/)
+- Download **JDK 17 (LTS)** from [Oracle JDK 17](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
 - After installation, verify:
 
 ```powershell
